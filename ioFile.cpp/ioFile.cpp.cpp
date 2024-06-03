@@ -12,5 +12,7 @@ int main() {
 
 	//Unlimited loop untuk menulis
 	while (true) {
+		cout << "- "; 
+		getline(cin, baris); //loop akan berhenti jika anda memasukkan karakter q
 		
 }
